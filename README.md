@@ -32,6 +32,11 @@ Test repository for WSoC2104 - SOUL
 - We could use the login feature too so that they can keep track of their mental health and
   they can see their data etc. We could use this data in the future for the development of
   the ML model in the application and make the model more accurate.
+  
+ ## Tasks
+
+You have two choices to do either **one** of Task 1 or Task 2.	More details would be provided in the respective task folders.
+**Task 1** would be related to **Mobile App Developement** whereas **Task 2** would be related to **Computer Vision**.
 
 ## Creating the test workspace
 
@@ -63,5 +68,5 @@ create a branch so that we can recognize your work and distinguish it from other
 
 The above command will create a new branch, and you will be automatically switched to that branch. So whatever changes
 you make will be saved to the newly made branch on every commit. Now, you can start working on the given tasks.
-Refer the following section on how to run the server and get started with solving this test tasks by completing the most of
-them.
+
+If you have any doubts regarding the tasks or anything or you need any help regarding the task just ping me on my email : arsharth.19bce7512@vitap.ac.in
