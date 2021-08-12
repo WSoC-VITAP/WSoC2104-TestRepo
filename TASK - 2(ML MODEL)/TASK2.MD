@@ -6,7 +6,7 @@
 	Click on the link below.
 	[Colab Intro](https://colab.research.google.com/notebooks/intro.ipynb)
 
--       The Link of the dataset is also provided below. 
+-       Use this dataset to train your model.
 	[Dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
     
 Train the model and print the accuracy of the ML model.
