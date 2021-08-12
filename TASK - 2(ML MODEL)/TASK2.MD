@@ -2,12 +2,12 @@
 
 ## Train a simple ML model for Multi-class classification.
 
-- 	I recommend you to use google colab for this task. If you dont have any idea about it,
-	Click on the link below.
-	[Colab Intro](https://colab.research.google.com/notebooks/intro.ipynb)
+- I recommend you to use google Colab for this task. If you dont have any idea about it,
+  Click on the link below.
+  [Colab Intro](https://colab.research.google.com/notebooks/intro.ipynb)
 
--       Use this dataset to train your model.
-	[Dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
+- Use this dataset to train your model.
+  [Dataset](https://archive.ics.uci.edu/ml/datasets/Glass+Identification)
     
 Train the model and print the accuracy of the ML model.
 
